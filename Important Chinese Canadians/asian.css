@@ -1,0 +1,301 @@
+body{
+	background-image: url(CPR.jpg);
+	background-repeat: none;
+	background-size: cover;
+	background-attachment: fixed;
+	text-indent: 2em;
+	line-height: 1.75em;
+}
+body.Theresa{
+	background-image: url(19.jpg);
+	background-repeat: none;
+	background-size: cover;
+	background-attachment: fixed;
+	text-indent: 2em;
+	line-height: 1.75em;
+}
+
+body.Payam{
+	background-image: url(Law.jpg);
+	background-repeat: none;
+	background-size: cover;
+	background-attachment: fixed;
+	text-indent: 2em;
+	line-height: 1.75em;
+}
+
+h1{
+	font-family: 'Limelight', cursive;
+}
+h2{
+	text-align: center;
+	padding-top: 10px;
+}
+div.Douglas{
+	background-color: #f1efe9;
+	width: 75%;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Mate SC', serif;
+	margin-bottom: 50px;
+	border: 5px solid black;
+}
+img{
+	float: right;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+p{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+}
+div.table{
+		width: 75%;
+	background-color: #FFDBAC;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+	border: 5px dotted #FFC000;
+}
+div.Payam{
+	background-color: 5bc331;
+		width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+	font-family: 'Oswald', sans-serif;
+	border: 5px solid #909ca9;
+	margin-bottom: 50px;
+}
+table.practice{
+	color: white; 
+}
+td.grade{
+	text-align: center;
+}
+a:link{
+	color: black;
+	text-decoration: none;
+}
+a:visited{
+	color: black;
+	text-decoration: none;
+}
+a:hover{
+	color: black;
+	text-decoration: underline;
+}
+div.Simu{
+	font-family: 'Odibee Sans', cursive;
+	background-color: rgba(255,191,0,0.6);
+	border-radius: 10px;
+	border: 5px solid #ff0000;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+img.Simu{
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+div.Tam{
+	background-color:#c0d6e4;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+	font-family: 'Titillium Web', sans-serif;
+	border: 5px solid #f7347a;
+	margin-bottom: 50px;
+}
+pre{
+	font-size: 20px;
+	color: aqua;
+}
+img.Douglas{
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+div.Douglas_Accomplishments{
+	background-color: #bcbcbc;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Mate SC', serif;
+}
+
+div.Tamq{
+	background-color: fff7f7;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+body.Simu{
+	background-image: url(shang-chi.jpg);
+	background-repeat: none;
+	background-size: cover;
+	background-attachment: fixed;
+	text-indent: 2em;
+	line-height: 1.75em;
+	
+}
+div.Simu_works{
+	background-color: f6f6f3;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-family: 'Odibee Sans', cursive;
+}
+h2.two{
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+	
+}
+td, th{
+	padding: 10px;
+	border-bottom: 1px dotted black;
+}
+tr:nth-child(even) {background-color: d4d8d2;}
+th{
+	background-color: a3e17c;
+}
+
+tr.Tam:nth-child(even) {background-color: d4d8d2;}
+th.Tam{
+	background-color: 1dd4d0;
+}
+
+tr.title{
+	background-color: #ffff00;
+}
+th.too{
+	background-color: #ff0000;
+}
+th.die{
+	background-color: white;
+}
+
+div.Payam_Accomplishment{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+    border-radius: 10px;
+    background-color: e52727;	
+	font-family: 'Oswald', sans-serif;
+}
+
+img.one{
+	float: none;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+
+div.Tam_Gallery{
+	width: 75%;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+div.Payam_Gallery{
+	width: 75%;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+div.Simu_Gallery{
+	width: 75%;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+div.Douglas_Gallery{
+	width: 75%;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+iframe{
+	margin-bottom: 20px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+img.one_one{
+	float: none;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
+h2.Gallery{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+}
+
+a.one:visited{
+	font-size: 20px;
+	color: aqua;
+}
+
+a.one:link{
+	font-size: 20px;
+	color: aqua;
+	
+}
+
+a.one:active{
+	font-size: 20px;
+	color: aqua;
+}
+
+h2.Galleryq{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+	color: white;
+}
+
+h2.Galleryw{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+	color: ccd2d4;
+}
+
+h2.Gallerye{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+	color:green;
+}
+
+
+
+
+
+	
